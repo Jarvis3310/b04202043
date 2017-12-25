@@ -3,6 +3,7 @@
 Created on Thu Nov  2 22:24:56 2017
 
 @author: 林亦盛
+Last step, turn the npy file into a video. 
 """
 
 import numpy as np
