@@ -9,16 +9,10 @@ import numpy as np
 import cv2
 test_video_new = np.load('west_video_new1.npy')
 #print(test_video_new.shape)
-
-
-
 #cv2.namedWindow('image', cv2.WINDOW_NORMAL)
 #cv2.imshow('image',img)
 #cv2.waitKey(0)
 #cv2.destroyAllWindows()
-
-
-
 #print(len(test_video_new))
 
 
