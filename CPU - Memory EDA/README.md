@@ -3,5 +3,8 @@
   
 ### data_trans.py:
   code for getting data from specific ID
-  
+  
+### HW LSTM.ipynb:
+  對資料進行分析
+  參考來源:https://goo.gl/u1qGNq
 
