@@ -8,7 +8,7 @@
   Introducing Vanilla LSTM.
   
 ### NLP :
-  使用SnowNLP對運動新聞進行分析(其中有四篇 為體育記者 李亦伸LYS 的報導)
+  使用 SnowNLP 對 NBA 新聞進行分析(其中有四篇 為體育記者 李亦伸LYS 的報導)
 
 ### YOLO :
   Using YOLO net to capture items and tag them with labels in a video.
